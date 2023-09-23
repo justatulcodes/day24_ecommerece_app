@@ -1,16 +1,11 @@
 # day24_ecommerece_app
 
-A new Flutter project.
+Day 24 Of 30 Days Of Android UI Building Challenge
 
-## Getting Started
+<img src="https://github.com/justatulcodes/day24_ecommerece_app/assets/106759388/66b91ea4-5538-41c6-aa96-f1c3ef444ce3" alt="Image" width="500" height="500">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/justatulcodes/day24_ecommerece_app/assets/106759388/7cea928f-38c7-443d-aba0-9d5ef9d64043" alt="Image" width="500" height="500">
 
-A few resources to get you started if this is your first Flutter project:
+## [Click To Watch Video](https://www.youtube.com/watch?v=70wjaKJOajk&ab_channel=Expeknow)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
